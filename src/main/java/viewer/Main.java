@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-
+//main
 public class Main extends Application
 {
 
@@ -24,4 +24,7 @@ public class Main extends Application
         primaryStage.show();
 
     }
+
+
+
 }
