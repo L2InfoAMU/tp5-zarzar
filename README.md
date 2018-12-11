@@ -11,4 +11,4 @@ On va considérer quatre manières de représenter une image en couleur et donc 
 
 ## Membre du projet
 
-- ZAROUALI Anass,G2
+- ZAROUALI Anass, Groupe 2
